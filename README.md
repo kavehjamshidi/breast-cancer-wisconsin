@@ -3,6 +3,7 @@ In this project, we trained a stacked ensemble model using scikit-learn to class
   
   ## To do  
   Feature engineering as some features are highly correlated.  
+  Use multilevel stacking.
     
   ## References
   Wolberg, W.H., & Mangasarian, O.L. (1990). Multisurface method of pattern separation for medical diagnosis applied to breast cytology. In Proceedings of the National Academy of Sciences, 87, 9193--9196.
